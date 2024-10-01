@@ -1,0 +1,2 @@
+pnpm i --frozen-lockfile
+pnpm lint-staged
